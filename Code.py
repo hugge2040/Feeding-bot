@@ -152,6 +152,9 @@ inventory_images = [
     'Images/Inv_Open 3.png',
     'Images/Inv_Open 4.png',
     'Images/Inv_Open 5.png',
+    'Images/Inv_Open 6.png',
+    'Images/Inv_Open 7.png',
+    'Images/Inv_Open 8.png',
     # Add more inventory images as needed
 ]
 
@@ -162,6 +165,10 @@ additional_inventory_images = [
     'Images/Inventory_3.png',
     'Images/Inventory_4.png',
     'Images/Inevntory_5.png',
+    'Images/Inevntory_6.png',
+    'Images/Inevntory_7.png',
+    'Images/Inevntory_8.png',
+    'Images/Inevntory_9.png',
     # Add more inventory images as needed
 ]
 
